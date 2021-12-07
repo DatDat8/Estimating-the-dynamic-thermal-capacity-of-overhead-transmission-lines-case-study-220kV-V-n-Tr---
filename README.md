@@ -5,6 +5,8 @@ Keywords: Dynamic Rating; Thermal; Load-ability; Ampacity; Clearance, Overhead C
 
 The project regards the estimation of the potential of DLR application for transmission lines in Vietnam, which is new and expected to be crucial to boost the capcacity of transmission system in rush hour. This project is currently in poposal for publication in Student Forum organized in HUST (Hanoi University of Science and Technology) about Sustainable Energy.
 
+The project is the application of data analysis skills in energy branch to help understand the insights and facilitate the evaluation, decision-making steps. 
+
 For further information of the project regarding data and report, please access to this drive link: https://drive.google.com/file/d/1oCKwG6LcIlIFK5w8u6aIKnSO6CRtCCSt/view?usp=sharing
 
 Best Wishes!
