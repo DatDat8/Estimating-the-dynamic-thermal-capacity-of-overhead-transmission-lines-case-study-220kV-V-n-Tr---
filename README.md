@@ -9,6 +9,6 @@ The project is the application of data analysis skills in energy branch to help 
 
 For further information of the project regarding data and report, please access to this drive link: https://drive.google.com/file/d/1oCKwG6LcIlIFK5w8u6aIKnSO6CRtCCSt/view?usp=sharing
 
-THE PROJECT ARE CURRENTLY REWARDED AS AMONG THE BEST PAPERS OF STUDENT FORUM 2021. More information: https://drive.google.com/file/d/1mSqKDMmxhW42vYB5IxJLQ54WQ6rwIinS/view?usp=sharing
+THE PROJECT IS CURRENTLY REWARDED AS AMONG THE BEST PAPERS OF STUDENT FORUM 2021. More information: https://drive.google.com/file/d/1mSqKDMmxhW42vYB5IxJLQ54WQ6rwIinS/view?usp=sharing
 
 Best Wishes!
